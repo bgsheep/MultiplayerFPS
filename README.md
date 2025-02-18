@@ -20,3 +20,4 @@ UE5空白项目开发，是一款第一人称射击多人游戏。每个客户�
 # 游戏截图
 ![pho1](https://github.com/bgsheep/MultiplayerFPS/blob/main/demos/demo1.gif)
 ![pho1](https://github.com/bgsheep/MultiplayerFPS/blob/main/demos/demo2.gif)
+![pho1](https://github.com/bgsheep/MultiplayerFPS/blob/main/demos/demo3.gif)
