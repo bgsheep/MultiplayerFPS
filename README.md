@@ -17,7 +17,7 @@ UE5空白项目开发，是一款第一人称射击多人游戏。每个客户�
 6. 创建自定义玩家控制器、玩家状态及游戏状态类，并存储对应的游戏信息；
 7. 实现拾取物类的创建，及用户拾取物品的逻辑；
 
-# 游戏截图
+# 游玩演示
 ![pho1](https://github.com/bgsheep/MultiplayerFPS/blob/main/demos/demo1.gif)
 ![pho1](https://github.com/bgsheep/MultiplayerFPS/blob/main/demos/demo2.gif)
 ![pho1](https://github.com/bgsheep/MultiplayerFPS/blob/main/demos/demo3.gif)
